@@ -1,0 +1,1 @@
+Only my studies in Design Patterns with Python
