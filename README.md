@@ -1,1 +1,1 @@
-Only my studies in Design Patterns with Python
+Only my studies in Design Patterns with Python based on books: Learning Design Patterns with Python and Design Patterns
